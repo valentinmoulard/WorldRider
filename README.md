@@ -18,6 +18,12 @@ The lasers can be spawned in the level and rotates. The lasers damage any cars t
 Enemy cars will spawn off carema and will drive towards the player.
 The spawn rate of enemies, barels and lasers increases over time.
 
+# Visual aspect
+I wanted to create a nice context for this game matching the gameplay.
+The player chased by others. I was clearly inspired by Need for Speed Underground 2 for the night theme and by Need for Speed Most Wanted for the gameplay of being chased and using traps to trick the enemies.
+I decided to put a night ambiance by decreasing the intensity of the sun light and putting lights for the cars and the traps that can be activated.
+I also picked a stylied font for this game.
+
 # Sound
 I chose a dynamic sound for the game and added sound effects for the barrels activation, barrel explosion, cars collison cars explosion.
 
