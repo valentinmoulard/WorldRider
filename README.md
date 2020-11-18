@@ -1,5 +1,5 @@
 # WorldRider
- Prototype for a hyper casual game (enhenced) - Test Ketchapp
+ Prototype for a hyper casual game (enhenced)
  
 # DEMO VIDEO
 Here is a short demo clip.
